@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <!--color of status bar -->
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="slateGray">#807783</color>
+    <color name="gray">#aaaaaa</color>
+    <color name="White">#FFFFFF</color>
+    <color name="Ivory">#FFFFF0</color>
+    <color name="Black">#000000</color>
+
+    <!--from guacamole -->
+    <color name="DarkSlateGray">#060B0D</color>
+    <color name="blueDark">#1f2247</color> <!--> replaced<-->
+    <color name="maroon">#660b29</color>
+    <color name="white">#fff</color>
+    <color name="greyLight">#d6d6d6</color> <!--> not used<-->
+    <color name="grey">#aaaaaa</color> <!--> replaced<-->
+    <color name="greyDark">#555555</color> <!--> not used<-->
+    <color name="beigeLight">#ffeac1</color>
+    <color name="orange">#ff8411</color><!--> replaced<-->
+    <color name="black">#000000</color>
+    <color name="GreenSlateGray">#42534B</color>
+    <color name="SlateGray">#807783</color>
+    <color name="MidnightBlue">#110A31</color>
+    <color name="SaddleBrown">#27081B</color>
+    <color name="LightBrown">#3f0f1f</color>
+    <color name="LightGreen">#667f74</color>
+
+</resources>
